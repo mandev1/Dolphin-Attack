@@ -24,9 +24,9 @@ dijalankan, server lalu mencari koneksi client lalu terhubung dan server siap
 menerima instruksi dari client.
 Setelah terhubung, client bisa mengirimkan instruksi dengan menggunakan
 socket, diterima oleh server dan diproses pada komputer target. Cara kerja program
-client dapat dilihat pada Gambar 3.3.
+client dapat dilihat pada Gambar 3.2.
 
 Saat client mengirimkan instruksi, server menerima instruksi tersebut lalu
 dikonversikan menjadi suara inaudible. Gelombang ultrasonik ini lalu dikeluarkan
 oleh loudspeaker dan diterima oleh smart speaker. Cara kerja program server dapat
-dilihat pada Gambar 3.4.
+dilihat pada Gambar 3.3.
