@@ -60,4 +60,4 @@ seen in Figure below.
 ![set(indonesia)](https://user-images.githubusercontent.com/101856662/186622775-a8f4bd11-77d8-4ad8-aa86-306f389f9a49.png)
 
 ## Information 
-All of Audio file are located in Result Folder
+All of Audio files are located in Result Folder
