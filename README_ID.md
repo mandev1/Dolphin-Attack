@@ -42,3 +42,22 @@ oleh loudspeaker dan diterima oleh smart speaker. Cara kerja program server dapa
 dilihat pada Gambar dibawah.
 
 ![image](https://user-images.githubusercontent.com/101856662/186618507-6d019d4a-4aa8-4953-ba4b-9c6a493b911c.png)
+
+## Hasil
+### Hi Alexa, Hallo
+![set(hallo)](https://user-images.githubusercontent.com/101856662/186622334-b94c5bbb-78e7-4e7e-86cb-956e510648e4.png)
+
+### Hi Alexa, Open Demo Skill
+![set(demoskill)](https://user-images.githubusercontent.com/101856662/186622590-0ca3583c-fda2-48b9-b191-5718c27370d5.png)
+
+### Hi Alexa, How Are You
+![set(how are you)](https://user-images.githubusercontent.com/101856662/186622686-bc42dd95-72fb-41fb-8bc4-c0de9b8dc39c.png)
+
+### Hi Alexa, Tell Me a Joke
+![set(tell me a joke)](https://user-images.githubusercontent.com/101856662/186622727-fe8a2461-b5e5-4c19-b667-c3c5b7733e65.png)
+
+### Hi Alexa, Tell Me about Indonesia
+![set(indonesia)](https://user-images.githubusercontent.com/101856662/186622775-a8f4bd11-77d8-4ad8-aa86-306f389f9a49.png)
+
+## Informasi
+Semua File Suara berlokasi pada folder Result
