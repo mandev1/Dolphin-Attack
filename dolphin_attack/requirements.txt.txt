@@ -1,0 +1,5 @@
+Python 		== 3.6.4
+pip		== 9.0.3
+scipy		== 1.5.4
+numpy		== 1.19.5
+pyttsx3		== 2.90
